@@ -8,8 +8,6 @@ My journey in tech is fueled by my passions for **biotechnology**, **full-stack 
 
 Beyond my career goals, I love connecting with people and building vibrant communities. My time at Schulich has been incredibly rewarding, allowing me to meet like-minded individuals and create lasting memories. Inspired by those who have guided me, I aim to inspire and support the next generation of engineers.
 
-Feel free to reach out and connect—I’d love to hear from you! 😊
-
 ## Tech Stack 🔧
 
 - **Java** ☕
